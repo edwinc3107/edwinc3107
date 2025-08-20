@@ -6,7 +6,7 @@
   
 ## Currently, 
 - 💻 **Software Engineering Intern @ [Get Vitals](https://getvitals.care/)** → building tools that support ER nurses & frontline healthcare  
-- 🛠️ Developing **Envo** (carpooling app - private repo) & **Analzyr** (Banking tool).
+- 🛠️ Developing **Envo** (carpooling app - private repo) & **Analyzr** (Banking tool).
 
 
 
