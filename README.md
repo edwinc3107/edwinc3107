@@ -5,7 +5,7 @@
 - 🔍 Exploring **internships & early career roles** in SWE, AI/ML, and technical fields.  
   
 ## Currently, 
-- 💻 **Software Engineering Intern @ [Get Vitals](https://getvitals.care/)** → building tools that support ER nurses & frontline healthcare  
+- 💻 **Software Engineering Intern @ [Get Vitals](https://getvitals.care/)** → building tools that support ER nurses & frontline healthcare.  
 - 🛠️ Building **Analyzr** (Banking tool).
 
 
